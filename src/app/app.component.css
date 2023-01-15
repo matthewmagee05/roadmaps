@@ -4,3 +4,15 @@
   border: 3px solid green;
   padding: 10px;
 }
+.responsive1 {
+  width: 100%;
+  height: auto;
+  max-height: 20%;
+}
+
+.responsive {
+  width: 40%;
+  height: auto;
+  margin-right: 10%;
+  max-height: 20%;
+}
